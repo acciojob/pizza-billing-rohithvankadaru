@@ -78,7 +78,7 @@ public class Pizza {
 
             if(ispaperBagAdded) bill += "Paperbag Added: " + paperBagPrice + "\n";
 
-            bill += "Total Price:" + totalPrice + "\n";
+            bill += "Total Price: " + totalPrice + "\n";
 
             isBillGenerated = true;
         }
